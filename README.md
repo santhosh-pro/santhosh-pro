@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I have a low score in computer science and engineering;
 - 📫 How to reach me: contact@santhosh.pro;
 
-**Languages and Tools:** 
+**Languages and Frameworks:** 
 
 <p>
   <a href="https://github.com/santhoshprogrammer94">
