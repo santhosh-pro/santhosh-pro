@@ -26,17 +26,11 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   <a href="https://github.com/santhoshprogrammer94">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
@@ -60,7 +54,7 @@ I created these images, feel free to use them.
 -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/santhoshpro" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/>
   </a>
 </p>
 
