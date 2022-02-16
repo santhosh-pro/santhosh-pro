@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on Grids and Guides;
 - 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture; 
-- 🤔 I’m looking for help with Design Pattern ;
+- 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about programming, I am happy to help;
 - ⚡️ Fun-Fact: I have a low score in computer science and engineering;
 - 📫 How to reach me: contact@santhosh.pro;
@@ -30,8 +30,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/santhoshprogrammer94">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
