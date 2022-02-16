@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on Grids and Guides;
-- 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture; 
+- 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture, Gitops and Dapr; 
 - 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about programming, I am happy to help;
 - ⚡️ Fun-Fact: I have a low score in computer science and engineering;
