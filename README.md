@@ -57,9 +57,9 @@ You can use the website to generate badges: https://shields.io/
 
 ![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=github-light&hide_border=true&area=true)
 
-<div align="center">
+<span align="center">
 ![Santhosh's github summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshprogrammer94&theme=vue)
-<div>
+<span>
   
 ## Support me
 <!-- Your support, if you have it 
