@@ -4,7 +4,20 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
+<div align="center">
+<a href="https://santhosh.pro/">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
+  <a href="https://blog.santhosh.pro/">
+<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=blog&logoColor=white" alt="Blog" />
+</a>
+<a href="https://www.linkedin.com/in/santhosh-m-b10b12198/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:santhoshprogrammer94@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
 [![Portfolio](https://img.shields.io/badge/Portfolio-me-brightgreen)](https://santhosh.pro)
 [![Blog](https://img.shields.io/badge/Blog-me-yellowgreen?style=flat&logo=blog)](https://blog.santhosh.pro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-m-b10b12198/)
