@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on Grids and Guides;
 - 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture, Gitops and Dapr; 
