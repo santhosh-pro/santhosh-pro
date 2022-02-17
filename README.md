@@ -9,7 +9,8 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
   <a href="https://blog.santhosh.pro/">
-<img src="https://img.shields.io/badge/vist%20my%Blog-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="Blog" />
+    
+<img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
 </a>
 <a href="https://www.linkedin.com/in/santhosh-m-b10b12198/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
