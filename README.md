@@ -48,17 +48,13 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 ## GitHub Stats
-<p align="center">&nbsp;
- <br>
+<div align="center">&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthaiyanmani&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-    <br>
-  
-    
-</p>
-<a href="https://github.com/santhoshprogrammer94">
+  <a href="https://github.com/santhoshprogrammer94">
     <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
-    
   </a>
+</div>
+
 
 ![Muthaiyan Mani's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
