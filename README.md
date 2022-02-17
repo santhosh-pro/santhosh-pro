@@ -54,9 +54,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## Github Stats
-  <a href="https://github.com/santhoshprogrammer94">
-    <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
-  </a>
+
 ![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=github-light&hide_border=true&area=true)
 
 ## Support me
