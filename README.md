@@ -41,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/santhoshprogrammer94">
     <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
   </a>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
