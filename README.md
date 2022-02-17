@@ -58,7 +58,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 
-![Muthaiyan Mani's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Muthaiyan Mani's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ## Support me
 <!-- Your support, if you have it 
