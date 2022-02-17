@@ -60,6 +60,8 @@ You can use the website to generate badges: https://shields.io/
 ![Santhosh's github summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshprogrammer94&theme=vue)
 
 ![Santhosh's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshprogrammer94)
+
+![Santhosh's github profile trophy](https://github-profile-trophy.vercel.app/?username=santhoshprogrammer94)
   
 ## Support me
 <!-- Your support, if you have it 
