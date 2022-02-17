@@ -18,10 +18,6 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
-[![Portfolio](https://img.shields.io/badge/Portfolio-me-brightgreen)](https://santhosh.pro)
-[![Blog](https://img.shields.io/badge/Blog-me-yellowgreen?style=flat&logo=blog)](https://blog.santhosh.pro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-m-b10b12198/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:santhoshprogrammer94@gmail.com)
 
 &nbsp;
 
