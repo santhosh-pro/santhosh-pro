@@ -54,14 +54,14 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## Github Stats
-
-<img src="https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=github-light&hide_border=true&area=true" alt="summary" />
 <div align=center>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshprogrammer94&theme=vue" alt="summary" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshprogrammer94" alt="summary" />
 </div>
+<img src="https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=github-light&hide_border=true&area=true" alt="summary" />
+
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=santhoshprogrammer94" alt="summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshprogrammer94" alt="summary" />
   </div>
 
 ## Support me
