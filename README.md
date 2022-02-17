@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&hide_border=true&area=true)
+![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=light&hide_border=true&area=true)
 
 ## Support me
 <!-- Your support, if you have it 
