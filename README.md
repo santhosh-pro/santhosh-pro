@@ -29,9 +29,9 @@ You can use the website to generate badges: https://shields.io/
 <p>
   <a href="https://github.com/santhoshprogrammer94">
     <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshprogrammer94&custom_title=streak-stats&hide_border=true&layout=compact" />
+ 
   </a>
-  
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshprogrammer94&custom_title=streak-stats&hide_border=true&layout=compact" />
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
