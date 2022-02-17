@@ -30,6 +30,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/santhoshprogrammer94">
     <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
   </a>
+  ![Muthaiyan Mani's github activity graph](https://activity-graph.herokuapp.com/graph?username=muthaiyanmani&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
