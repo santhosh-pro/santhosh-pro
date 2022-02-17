@@ -28,6 +28,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
 
+- 👨🏽‍💻 I’m currently using Angular(Tailwind Css) and NestJs(TypeOrm);
 - 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture, Gitops and Dapr; 
 - 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about programming, I am happy to help;
