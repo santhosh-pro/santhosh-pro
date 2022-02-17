@@ -42,20 +42,20 @@ You can use the website to generate badges: https://shields.io/
     <img width="55%" align="right" alt="Santhosh's github stats" src="https://github-readme-stats.vercel.app/api?username=santhoshprogrammer94&show_icons=true&hide_border=true" />
   </a>
   <code><img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+  <code><img width="10%" src="	https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></code>
+  <code><img width="10%" src="ttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/daprio/daprio-ar21.svg"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=whit"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></code>
 </p>
 
 
