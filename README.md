@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/be96c959ed8b7cb094d586877394cdf244506b74/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/bb9e5ab83dbe81fbeb522373bc9e43441694d3ad/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently using Angular(TailwindCss) and NestJs(TypeORM);
 - 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture, Gitops and Dapr; 
