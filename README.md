@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.linkedin.com/in/santhosh-m-b10b12198/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:santhoshprogrammer94@gmail.com">
+<a href="mailto:iamsanthosh.pro@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhoshprogrammer94/santhoshprogrammer94/bb9e5ab83dbe81fbeb522373bc9e43441694d3ad/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/santhosh-pro/santhosh-pro/bb9e5ab83dbe81fbeb522373bc9e43441694d3ad/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently using Angular(TailwindCss) and NestJs(TypeORM);
 - 🌱 I’m currently learning Advance Kubernetes, Distributed Architecture, Gitops and Dapr; 
@@ -49,13 +49,13 @@ You can use the website to generate badges: https://shields.io/
 
 ## Github Stats
 <div align=center>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshprogrammer94&theme=vue" alt="summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh-pro&theme=vue" alt="summary" />
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=santhoshprogrammer94&layout=compact&theme=github-light&hide_border=true&area=true" alt="summary" />
+<img src="https://activity-graph.herokuapp.com/graph?username=santhosh-pro&layout=compact&theme=github-light&hide_border=true&area=true" alt="summary" />
 
 <div align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=santhoshprogrammer94" alt="summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshprogrammer94" alt="summary" />
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-pro" alt="summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-pro" alt="summary" />
   </div>
 
 ## Support me
