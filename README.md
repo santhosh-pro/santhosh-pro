@@ -51,7 +51,6 @@ You can use the website to generate badges: https://shields.io/
 <div align=center>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhosh-pro&theme=vue" alt="summary" />
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=santhosh-pro&layout=compact&theme=github-light&hide_border=true&area=true" alt="summary" />
 
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=santhosh-pro" alt="summary" />
