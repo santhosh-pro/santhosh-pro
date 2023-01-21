@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Santhosh M, a Developer 🚀 from India.
+## Hi, I'm Santhosh M, a Developer 🚀 from Chennai, India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
