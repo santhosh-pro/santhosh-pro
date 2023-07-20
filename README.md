@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 <div align="center">
-<a href="https://santhosh.pro/">
+<a href="https://santhosh-pro.github.io">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
   <a href="https://blog.santhosh.pro/">
