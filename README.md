@@ -12,6 +12,11 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.linkedin.com/in/santhosh-pro/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
+
+<a href="https://www.upwork.com/freelancers/~017cd41b09fd764257">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="portfolio" />
+</a>
+
 <a href="mailto:iamsanthosh.pro@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
@@ -36,6 +41,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <img width="10%" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img width="10%" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img width="10%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
