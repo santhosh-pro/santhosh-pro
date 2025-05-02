@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="portfolio" />
 </a>
 
-<a href="mailto:iamsanthosh.pro@gmail.com">
+<a href="mailto:santhosh@flyweightsoft.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
