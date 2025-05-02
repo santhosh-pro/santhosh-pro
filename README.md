@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with Design Pattern;
 - 💬 Ask me about programming, I am happy to help;
 - ⚡️ Fun-Fact: I have a low score in computer science and engineering;
-- 📫 How to reach me: iamsanthosh.pro@gmail.com;
+- 📫 How to reach me: santhosh@flyweightsoft.com;
 
 **Languages and Frameworks:** 
 
